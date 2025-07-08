@@ -1,0 +1,3 @@
+"""
+SnapTrace Source Package
+"""
